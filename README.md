@@ -8,10 +8,7 @@ This app serves as a starting point for building server-side applications with d
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## ✨ Features
 
